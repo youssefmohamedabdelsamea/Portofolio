@@ -4,13 +4,13 @@ let git = document.querySelector("#git")
 let h1 = document.querySelector("#h1header")
 
 tik.onclick = () => {
-    location.replace("https://www.tiktok.com")
+    location.assign("https://www.tiktok.com/@youssef12986?is_from_webapp=1&sender_device=pc")
 }
 
 you.onclick = () => {
-    location.replace("https://www.youtube.com")
+    location.assign("https://www.youtube.com/@storyblocks587")
 }
 
 git.onclick = () => {
-    location.replace("https://github.com/ym43")
+    location.assign("https://github.com/youssefmohamedabdelsamea")
 }
